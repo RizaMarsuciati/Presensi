@@ -1,0 +1,156 @@
+D:\Candraka21\Amikom YK\SEMESTER 4\PBO\Visual Studio\Sekolah\Sekolah\bin\Debug\Sekolah.exe.config
+D:\Candraka21\Amikom YK\SEMESTER 4\PBO\Visual Studio\Sekolah\Sekolah\bin\Debug\Sekolah.exe
+D:\Candraka21\Amikom YK\SEMESTER 4\PBO\Visual Studio\Sekolah\Sekolah\bin\Debug\Sekolah.pdb
+D:\Candraka21\Amikom YK\SEMESTER 4\PBO\Visual Studio\Sekolah\Sekolah\bin\Debug\Sekolah.xml
+D:\Candraka21\Amikom YK\SEMESTER 4\PBO\Visual Studio\Sekolah\Sekolah\obj\Debug\Sekolah.vbprojResolveAssemblyReference.cache
+D:\Candraka21\Amikom YK\SEMESTER 4\PBO\Visual Studio\Sekolah\Sekolah\obj\Debug\Sekolah.FormCari.resources
+D:\Candraka21\Amikom YK\SEMESTER 4\PBO\Visual Studio\Sekolah\Sekolah\obj\Debug\Sekolah.FormDaftarKelas.resources
+D:\Candraka21\Amikom YK\SEMESTER 4\PBO\Visual Studio\Sekolah\Sekolah\obj\Debug\Sekolah.FormDaftarPelanggaran.resources
+D:\Candraka21\Amikom YK\SEMESTER 4\PBO\Visual Studio\Sekolah\Sekolah\obj\Debug\Sekolah.FormDaftarPresensi.resources
+D:\Candraka21\Amikom YK\SEMESTER 4\PBO\Visual Studio\Sekolah\Sekolah\obj\Debug\Sekolah.FormDetailPelanggaran.resources
+D:\Candraka21\Amikom YK\SEMESTER 4\PBO\Visual Studio\Sekolah\Sekolah\obj\Debug\Sekolah.FormDetailSiswa.resources
+D:\Candraka21\Amikom YK\SEMESTER 4\PBO\Visual Studio\Sekolah\Sekolah\obj\Debug\Sekolah.FormKategoriKelas.resources
+D:\Candraka21\Amikom YK\SEMESTER 4\PBO\Visual Studio\Sekolah\Sekolah\obj\Debug\Sekolah.FormLogin.resources
+D:\Candraka21\Amikom YK\SEMESTER 4\PBO\Visual Studio\Sekolah\Sekolah\obj\Debug\Sekolah.FormBeranda.resources
+D:\Candraka21\Amikom YK\SEMESTER 4\PBO\Visual Studio\Sekolah\Sekolah\obj\Debug\Sekolah.FormPelanggaran.resources
+D:\Candraka21\Amikom YK\SEMESTER 4\PBO\Visual Studio\Sekolah\Sekolah\obj\Debug\Sekolah.FormPelanggaranBaru.resources
+D:\Candraka21\Amikom YK\SEMESTER 4\PBO\Visual Studio\Sekolah\Sekolah\obj\Debug\Sekolah.Resources.resources
+D:\Candraka21\Amikom YK\SEMESTER 4\PBO\Visual Studio\Sekolah\Sekolah\obj\Debug\Sekolah.vbproj.GenerateResource.Cache
+D:\Candraka21\Amikom YK\SEMESTER 4\PBO\Visual Studio\Sekolah\Sekolah\obj\Debug\Sekolah.exe
+D:\Candraka21\Amikom YK\SEMESTER 4\PBO\Visual Studio\Sekolah\Sekolah\obj\Debug\Sekolah.xml
+D:\Candraka21\Amikom YK\SEMESTER 4\PBO\Visual Studio\Sekolah\Sekolah\obj\Debug\Sekolah.pdb
+D:\College\Tugas Kuliah\PBD\sekolah v2\Sekolah\Sekolah\bin\Debug\Sekolah.exe.config
+D:\College\Tugas Kuliah\PBD\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.exe
+D:\College\Tugas Kuliah\PBD\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.xml
+D:\College\Tugas Kuliah\PBD\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.pdb
+D:\College\Tugas Kuliah\PBD\sekolah v2\Sekolah\Sekolah\bin\Debug\Sekolah.exe
+D:\College\Tugas Kuliah\PBD\sekolah v2\Sekolah\Sekolah\bin\Debug\Sekolah.pdb
+D:\College\Tugas Kuliah\PBD\sekolah v2\Sekolah\Sekolah\bin\Debug\Sekolah.xml
+D:\College\Tugas Kuliah\PBD\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.vbprojResolveAssemblyReference.cache
+D:\College\Tugas Kuliah\PBD\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormCari.resources
+D:\College\Tugas Kuliah\PBD\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormDaftarKelas.resources
+D:\College\Tugas Kuliah\PBD\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormDaftarPelanggaran.resources
+D:\College\Tugas Kuliah\PBD\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormDaftarPresensi.resources
+D:\College\Tugas Kuliah\PBD\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormDetailPelanggaran.resources
+D:\College\Tugas Kuliah\PBD\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormDetailSiswa.resources
+D:\College\Tugas Kuliah\PBD\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormKategoriKelas.resources
+D:\College\Tugas Kuliah\PBD\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormLogin.resources
+D:\College\Tugas Kuliah\PBD\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormBeranda.resources
+D:\College\Tugas Kuliah\PBD\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormPelanggaran.resources
+D:\College\Tugas Kuliah\PBD\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormPelanggaranBaru.resources
+D:\College\Tugas Kuliah\PBD\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.Resources.resources
+D:\College\Tugas Kuliah\PBD\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.vbproj.GenerateResource.Cache
+D:\UNIVERSITAS AMIKOM YOGYAKARTA\Materi Kuliah\Semester 4\PBD\sekolah v2\sekolah v2\Sekolah\Sekolah\bin\Debug\Sekolah.exe.config
+D:\UNIVERSITAS AMIKOM YOGYAKARTA\Materi Kuliah\Semester 4\PBD\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.exe
+D:\UNIVERSITAS AMIKOM YOGYAKARTA\Materi Kuliah\Semester 4\PBD\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.xml
+D:\UNIVERSITAS AMIKOM YOGYAKARTA\Materi Kuliah\Semester 4\PBD\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.pdb
+D:\Bismillah FP\sekolah v2\sekolah v2\Sekolah\Sekolah\bin\Debug\Sekolah.exe.config
+D:\Bismillah FP\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.exe
+D:\Bismillah FP\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.xml
+D:\Bismillah FP\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.pdb
+D:\Bismillah FP\sekolah v2\sekolah v2\Sekolah\Sekolah\bin\Debug\Sekolah.exe
+D:\Bismillah FP\sekolah v2\sekolah v2\Sekolah\Sekolah\bin\Debug\Sekolah.pdb
+D:\Bismillah FP\sekolah v2\sekolah v2\Sekolah\Sekolah\bin\Debug\Sekolah.xml
+D:\Bismillah FP\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.vbprojResolveAssemblyReference.cache
+D:\Bismillah FP\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormCari.resources
+D:\Bismillah FP\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormDaftarKelas.resources
+D:\Bismillah FP\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormDaftarPresensi.resources
+D:\Bismillah FP\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormKategoriKelas.resources
+D:\Bismillah FP\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormLogin.resources
+D:\Bismillah FP\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormPelanggaran.resources
+D:\Bismillah FP\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormPelanggaranBaru.resources
+D:\Bismillah FP\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormBeranda.resources
+D:\Bismillah FP\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormAdmin.resources
+D:\Bismillah FP\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.Resources.resources
+D:\Bismillah FP\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.vbproj.GenerateResource.Cache
+D:\Bismillah FP\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormRemisi.resources
+D:\Bismillah FP\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormTampil.resources
+D:\Bismillah FP\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormUpdateThang.resources
+D:\Bismillah FP\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormUpdatePelanggaran.resources
+D:\Bismillah FP (PBD)\sekolah v2\sekolah v2\Sekolah\Sekolah\bin\Debug\Sekolah.exe.config
+D:\Bismillah FP (PBD)\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.exe
+D:\Bismillah FP (PBD)\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.xml
+D:\Bismillah FP (PBD)\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.pdb
+D:\Bismillah FP (PBD)\sekolah v2\sekolah v2\Sekolah\Sekolah\bin\Debug\Sekolah.exe
+D:\Bismillah FP (PBD)\sekolah v2\sekolah v2\Sekolah\Sekolah\bin\Debug\Sekolah.pdb
+D:\Bismillah FP (PBD)\sekolah v2\sekolah v2\Sekolah\Sekolah\bin\Debug\Sekolah.xml
+D:\Bismillah FP (PBD)\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.vbprojResolveAssemblyReference.cache
+D:\Bismillah FP (PBD)\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormCari.resources
+D:\Bismillah FP (PBD)\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormDaftarKelas.resources
+D:\Bismillah FP (PBD)\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormDaftarPelanggaran.resources
+D:\Bismillah FP (PBD)\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormDaftarPresensi.resources
+D:\Bismillah FP (PBD)\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormDetailPelanggaran.resources
+D:\Bismillah FP (PBD)\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormDetailSiswa.resources
+D:\Bismillah FP (PBD)\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormKategoriKelas.resources
+D:\Bismillah FP (PBD)\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormLogin.resources
+D:\Bismillah FP (PBD)\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormPelanggaran.resources
+D:\Bismillah FP (PBD)\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormPelanggaranBaru.resources
+D:\Bismillah FP (PBD)\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormBeranda.resources
+D:\Bismillah FP (PBD)\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormAdmin.resources
+D:\Bismillah FP (PBD)\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormRemisi.resources
+D:\Bismillah FP (PBD)\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormTampil.resources
+D:\Bismillah FP (PBD)\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormUpdatePelanggaran.resources
+D:\Bismillah FP (PBD)\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormUpdateThang.resources
+D:\Bismillah FP (PBD)\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.Resources.resources
+D:\Bismillah FP (PBD)\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.vbproj.GenerateResource.Cache
+D:\Bismillah FP (PBD)\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormPengumuman.resources
+D:\Bismillah FP\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormPengumuman.resources
+D:\Bismillah FP\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormTampilDataPelanggar.resources
+D:\UNIVERSITAS AMIKOM YOGYAKARTA\Materi Kuliah\Semester 4\PBD\baru\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\bin\Debug\Sekolah.exe.config
+D:\UNIVERSITAS AMIKOM YOGYAKARTA\Materi Kuliah\Semester 4\PBD\baru\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.exe
+D:\UNIVERSITAS AMIKOM YOGYAKARTA\Materi Kuliah\Semester 4\PBD\baru\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.xml
+D:\UNIVERSITAS AMIKOM YOGYAKARTA\Materi Kuliah\Semester 4\PBD\baru\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.pdb
+D:\UNIVERSITAS AMIKOM YOGYAKARTA\Materi Kuliah\Semester 4\PBD\baru\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\bin\Debug\Sekolah.exe
+D:\UNIVERSITAS AMIKOM YOGYAKARTA\Materi Kuliah\Semester 4\PBD\baru\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\bin\Debug\Sekolah.pdb
+D:\UNIVERSITAS AMIKOM YOGYAKARTA\Materi Kuliah\Semester 4\PBD\baru\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\bin\Debug\Sekolah.xml
+D:\UNIVERSITAS AMIKOM YOGYAKARTA\Materi Kuliah\Semester 4\PBD\baru\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.vbprojResolveAssemblyReference.cache
+D:\UNIVERSITAS AMIKOM YOGYAKARTA\Materi Kuliah\Semester 4\PBD\baru\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormCari.resources
+D:\UNIVERSITAS AMIKOM YOGYAKARTA\Materi Kuliah\Semester 4\PBD\baru\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormDaftarKelas.resources
+D:\UNIVERSITAS AMIKOM YOGYAKARTA\Materi Kuliah\Semester 4\PBD\baru\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormDaftarPelanggaran.resources
+D:\UNIVERSITAS AMIKOM YOGYAKARTA\Materi Kuliah\Semester 4\PBD\baru\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormDaftarPresensi.resources
+D:\UNIVERSITAS AMIKOM YOGYAKARTA\Materi Kuliah\Semester 4\PBD\baru\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormKategoriKelas.resources
+D:\UNIVERSITAS AMIKOM YOGYAKARTA\Materi Kuliah\Semester 4\PBD\baru\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormLogin.resources
+D:\UNIVERSITAS AMIKOM YOGYAKARTA\Materi Kuliah\Semester 4\PBD\baru\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormPelanggaran.resources
+D:\UNIVERSITAS AMIKOM YOGYAKARTA\Materi Kuliah\Semester 4\PBD\baru\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormPelanggaranBaru.resources
+D:\UNIVERSITAS AMIKOM YOGYAKARTA\Materi Kuliah\Semester 4\PBD\baru\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormBeranda.resources
+D:\UNIVERSITAS AMIKOM YOGYAKARTA\Materi Kuliah\Semester 4\PBD\baru\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormAdmin.resources
+D:\UNIVERSITAS AMIKOM YOGYAKARTA\Materi Kuliah\Semester 4\PBD\baru\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormPengumuman.resources
+D:\UNIVERSITAS AMIKOM YOGYAKARTA\Materi Kuliah\Semester 4\PBD\baru\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormRemisi.resources
+D:\UNIVERSITAS AMIKOM YOGYAKARTA\Materi Kuliah\Semester 4\PBD\baru\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormTampil.resources
+D:\UNIVERSITAS AMIKOM YOGYAKARTA\Materi Kuliah\Semester 4\PBD\baru\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormTampilDataPelanggar.resources
+D:\UNIVERSITAS AMIKOM YOGYAKARTA\Materi Kuliah\Semester 4\PBD\baru\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormUpdatePelanggaran.resources
+D:\UNIVERSITAS AMIKOM YOGYAKARTA\Materi Kuliah\Semester 4\PBD\baru\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormUpdateThang.resources
+D:\UNIVERSITAS AMIKOM YOGYAKARTA\Materi Kuliah\Semester 4\PBD\baru\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.Resources.resources
+D:\UNIVERSITAS AMIKOM YOGYAKARTA\Materi Kuliah\Semester 4\PBD\baru\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.vbproj.GenerateResource.Cache
+D:\Bismillah FP\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\bin\Debug\Sekolah.exe.config
+D:\Bismillah FP\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.exe
+D:\Bismillah FP\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.xml
+D:\Bismillah FP\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.pdb
+D:\Bismillah FP\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\bin\Debug\Sekolah.exe
+D:\Bismillah FP\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\bin\Debug\Sekolah.pdb
+D:\Bismillah FP\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\bin\Debug\Sekolah.xml
+D:\Bismillah FP\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.vbprojResolveAssemblyReference.cache
+D:\Bismillah FP\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormCari.resources
+D:\Bismillah FP\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormDaftarKelas.resources
+D:\Bismillah FP\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormDaftarPelanggaran.resources
+D:\Bismillah FP\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormDaftarPresensi.resources
+D:\Bismillah FP\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormKategoriKelas.resources
+D:\Bismillah FP\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormLogin.resources
+D:\Bismillah FP\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormPelanggaran.resources
+D:\Bismillah FP\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormPelanggaranBaru.resources
+D:\Bismillah FP\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormBeranda.resources
+D:\Bismillah FP\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormAdmin.resources
+D:\Bismillah FP\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormPengumuman.resources
+D:\Bismillah FP\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormRemisi.resources
+D:\Bismillah FP\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormTampil.resources
+D:\Bismillah FP\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormTampilDataPelanggar.resources
+D:\Bismillah FP\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormUpdateKategoriKelas.resources
+D:\Bismillah FP\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormUpdatePelanggaran.resources
+D:\Bismillah FP\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormUpdateRemisi.resources
+D:\Bismillah FP\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormUpdateSiswa.resources
+D:\Bismillah FP\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormUpdateThang.resources
+D:\Bismillah FP\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.Resources.resources
+D:\Bismillah FP\sekolah v2\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.vbproj.GenerateResource.Cache
+D:\Bismillah FP\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormUpdateKategoriKelas.resources
+D:\Bismillah FP\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormUpdateRemisi.resources
+D:\Bismillah FP\sekolah v2\sekolah v2\Sekolah\Sekolah\obj\Debug\Sekolah.FormUpdateSiswa.resources
